@@ -1,0 +1,17 @@
+{
+  "id" : "mytemplate",
+  "name" : "myTemplate",
+  "description" : "",
+  "license" : "AGPL",
+  "author" : "Jeremie-C",
+  "require" : "",
+  "category" : "programming",
+  "cetgoryinfo": "https://jeedom.github.io/documentation/dev/fr_FR/structure_info_json",
+  "hasDependency": false,
+  "hasOwnDeamon" : false,
+  "language" : ["fr_FR","en_US"],
+  "compatibility" : ["miniplus","smart","rpi","docker","diy","mobile"],
+  "documentation": "https://jeremie-c.github.io/plugin-myTemplate/#language#/index",
+  "changelog": "https://jeremie-c.github.io/plugin-myTemplate/#language#/changelog",
+  "issue": "https://github.com/Jeremie-C/plugin-myTemplate/issues"
+}
